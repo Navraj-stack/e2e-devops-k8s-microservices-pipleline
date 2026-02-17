@@ -146,11 +146,6 @@ Terraform -> Ansible -> Docker/K8s/Helm -> GitHub Actions -> Helm Deployments ->
 *   Simple self-hosted GitHub Actions runners for CI/CD automation
 
 ---
-
-## License
-
-MIT License
-
 ---
 
 ## Maintained By
@@ -158,5 +153,4 @@ MIT License
 This project is actively maintained by **NAVRAJ SINGH**, a Cloud Engineer specializing in designing, deploying, and optimizing secure, scalable cloud infrastructures. With 2+ years of experience in CI/CD, Terraform, Kubernetes, and cloud automation, Navraj ensures the reliability, scalability, and continuous improvement of this pipeline.
 
 *   **GitHub:** NAVRAJ SINGH
-*   **LinkedIn:** NAVRAJ SINGH
 *   **Email:** navraj771s@gmail.com
